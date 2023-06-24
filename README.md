@@ -95,3 +95,4 @@ I used my own colors using color pickers as the colors given didnt match the des
 # Front-End-Mentor-QR-code
 # Front-End-Mentor-QR-code
 # Front-End-Mentor-QR-code
+# Front-End-Mentor-QR-code
